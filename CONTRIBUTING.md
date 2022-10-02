@@ -18,7 +18,7 @@
 - Bio: Aspiring Programmer, Btech 3rd Year
 - GitHub - Ydvaaman
 
-##### Name - [Sritika Manjrekar] (https://github.com/sritikamanjrekar)
+##### Name - Sritika Manjrekar
 - Place: Mumbai, maharashtra, India
 - Bio: Software Engineer, Btech 3rd Year
-- GitHub - [sritikamanjrekar] (https://github.com/sritikamanjrekar)
+- GitHub - sritikamanjrekar
